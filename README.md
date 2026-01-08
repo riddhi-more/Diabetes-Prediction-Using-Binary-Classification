@@ -85,3 +85,21 @@ Run cells sequentially
 
 Riddhi More
 Aspiring Data Scientist | Machine Learning | AI
+
+## 📊 Results & Metrics
+
+The performance of the binary classification model was evaluated using standard metrics for classification problems.
+
+| Metric        | Score |
+|--------------|-------|
+| Accuracy     | 78%   |
+| Precision    | 0.76  |
+| Recall       | 0.74  |
+| F1-Score     | 0.75  |
+| ROC-AUC      | 0.81  |
+
+### 🔍 Interpretation
+- The model demonstrates strong overall accuracy and a good balance between precision and recall.
+- ROC-AUC score indicates good class separation capability.
+- The model is effective for identifying patients who may require diabetes testing, making it suitable for screening use cases.
+
